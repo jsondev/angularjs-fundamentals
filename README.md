@@ -1,1 +1,1 @@
-#Angular Fundamentals course on pluralsight
+# Angular Fundamentals course on pluralsight
